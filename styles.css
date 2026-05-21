@@ -1,0 +1,31 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td, h2 {
+    text-align: center;
+}
+
+h2.listas {
+    text-align: left;
+}
+th {
+    background-color: black;
+    color: white;
+}
+
+tr {
+    background-color: #f2f2f2;
+}
+
+tr.rebaixamento {
+    background-color: #f9cb9c;
+}
+
+tr.libertadores {
+    background-color: #d9ead3;
+}
